@@ -19,7 +19,7 @@
             "serverpath": "${workspaceRoot}/../../tools/OpenOCD/bin/openocd.exe",
             // log level of openocd
             // "serverArgs": "-d3",
-            "armToolchainPath": "C://Program Files (x86)//gcc embedded//12.2-2022.12//bin",
+            "armToolchainPath": "C://Program Files (x86)//gcc embedded//12.2-2022.12//bin", //* PATH *//
             "interface": "swd",
             "serialNumber": "",
             "runToEntryPoint": "main",

@@ -9,7 +9,7 @@
             ],
             "defines": [],
             "forcedInclude": [],
-            "compilerPath": "C://Program Files (x86)//gcc embedded//10.3-2021.10//bin//arm-none-eabi-gcc.exe",
+            "compilerPath": "C://Program Files (x86)//gcc embedded//10.3-2021.10//bin//arm-none-eabi-gcc.exe",  //* PATH *//
             "cStandard": "c17",
             "cppStandard": "c++17",
             "intelliSenseMode": "gcc-arm",
